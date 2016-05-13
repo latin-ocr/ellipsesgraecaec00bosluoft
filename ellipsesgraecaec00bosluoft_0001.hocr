@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ellipsesgraecaec00bosluoft_0001.png"; bbox 0 0 2020 3380; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1939 2558 2020 3044">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1939 2558 2020 3044">
+     <span class='ocr_line' id='line_1_1' title="bbox 1964 2558 2020 2952; baseline -98.5 2167"><span class='ocrx_word' id='word_1_1' title='bbox 1990 2558 1998 2569; x_wconf 24' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1964 2658 2020 2952; x_wconf 43' lang='grc' dir='ltr'>ικέἑῶῧ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1939 2823 1999 3044"><span class='ocrx_word' id='word_1_3' title='bbox 1939 2823 1999 2944; x_wconf 43' lang='lat' dir='ltr'>fflffff</span> <span class='ocrx_word' id='word_1_4' title='bbox 1954 2975 1958 3005; x_wconf 74' lang='grc' dir='ltr'>ζ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1969 3043 1972 3044; x_wconf 16' lang='lat'><em>⁷</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2020 3380">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2020 3380">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2020 3380"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2020 3380; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
